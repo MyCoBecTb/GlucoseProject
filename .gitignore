@@ -1,2 +1,5 @@
 backend/env/
 backend/gluc_project/gluc_project/__pycache__/
+db.sqlite3
+backend/gluc_project/glucose_journal/__pycache__
+backend/gluc_project/glucose_journal/migrations
